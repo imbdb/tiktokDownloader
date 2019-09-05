@@ -1,0 +1,26 @@
+{
+  "name": "tiktokdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbdb/tiktokDownloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imbdb/tiktokDownloader/issues"
+  },
+  "homepage": "https://github.com/imbdb/tiktokDownloader#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
